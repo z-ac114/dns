@@ -849,6 +849,11 @@ sparkle: #tlyzachary0411@gmail.com U07DL91MFQT @zook
   - ttl: 600
     type: A
     value: 216.198.79.1
+
+starlight.sparkle: #a subdomain under sparkle
+  - ttl: 600
+  - type: CNAME
+  - value: starlight.thirtyseven.tech
     
 spotify:
   - ttl: 600
