@@ -865,7 +865,7 @@ sparkle: #tlyzachary0411@gmail.com U07DL91MFQT @zook
     type: A
     value: 216.198.79.1
 
-starlight.sparkle: #a subdomain under sparkle
+starlight.sparkle: #grayson@vantilborg.ca U092DA495UY @thirtyseven
   - ttl: 600
     type: CNAME
     value: starlight.thirtyseven.tech.
